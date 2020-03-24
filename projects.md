@@ -1,10 +1,10 @@
 ---
-title: Stay
+title: Check-In
 layout: projects
 description: Projects by Belkirk College
 publish_date: '2017-11-01T03:00:00.000+00:00'
-heading: Chelsea Garden Apartment
-sub_heading: Stay in the Chelsea Garden Apartment
+heading: Checking In
+sub_heading: Everything you need to find your getaway
 services: []
 textline: Text goes here.
 menu:
